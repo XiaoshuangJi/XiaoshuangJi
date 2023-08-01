@@ -28,7 +28,7 @@
 ### 在学项目
 - [ICLR 2022, "FedBABU: Toward Enhanced Representation for Federated Image Classification"](https://github.com/jhoon-oh/FedBABU)
 - [FedAvg:Communication-Efficient Learning of Deep Networks from Decentralized Data](https://github.com/shaoxiongji/federated-learning)
-- [hexo-theme-yilia-plus配置Demo](https://github.com/JoeyBling/yilia-plus-demo)
+- [[NeurIPS 2022] SemiFL: Semi-Supervised Federated Learning for Unlabeled Clients with Alternate Training](https://github.com/diaoenmao/SemiFL-Semi-Supervised-Federated-Learning-for-Unlabeled-Clients-with-Alternate-Training)
 - [自动为hexo中的图片映射绝对路径](https://github.com/JoeyBling/hexo-filter-image)
 - [✏️✏️Java软件工程师简历](https://github.com/JoeyBling/cv)
 - [一款简洁优雅的VuePress主题](https://github.com/JoeyBling/vuepress-theme-yilia-plus)
