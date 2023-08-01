@@ -4,10 +4,9 @@
 
 ### I'm Jixs0528
 
-- 中国矿业大学计算机科学与技术本科，中国科学院某所网络空间安全硕士在读
-- 🌱 研究方向为联邦学习中的隐私保护
-- 💬 Ask me about Java, Python and my projects on [1647102028@qq.com](mailto:1647102028@qq.com)
-- ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
+- 🌱 Bachelor's Degree in CS from CUMT,Master's Degree in Cyberspace Security from an institute of CAS. 
+- 💬 Research on privacy preservation in federated learning
+- ⭐ Ask me about Java, Python and my projects on [1647102028@qq.com](mailto:1647102028@qq.com)
 - ⚡ Fun fact: Data Analysis📊
 
 ### 🛠 技术栈 | Tech Stack
@@ -27,8 +26,8 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ### 在学项目
-- [基于SpringBoot + Shiro + MyBatisPlus的权限管理框架](https://github.com/JoeyBling/bootplus)
-- [一个简洁优雅的hexo主题](https://github.com/JoeyBling/hexo-theme-yilia-plus)
+- [ICLR 2022, "FedBABU: Toward Enhanced Representation for Federated Image Classification"](https://github.com/jhoon-oh/FedBABU)
+- [FedAvg:Communication-Efficient Learning of Deep Networks from Decentralized Data](https://github.com/shaoxiongji/federated-learning)
 - [hexo-theme-yilia-plus配置Demo](https://github.com/JoeyBling/yilia-plus-demo)
 - [自动为hexo中的图片映射绝对路径](https://github.com/JoeyBling/hexo-filter-image)
 - [✏️✏️Java软件工程师简历](https://github.com/JoeyBling/cv)
@@ -37,6 +36,8 @@
 - [VuePress集成Gitalk](https://github.com/JoeyBling/vuepress-plugin-mygitalk)
 - [不蒜子访问量统计功能](https://github.com/JoeyBling/busuanzi.pure.js)
 - [在`npm install`后提示用户消息或捐赠](https://github.com/JoeyBling/openteam-postinstall)
+
+
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
