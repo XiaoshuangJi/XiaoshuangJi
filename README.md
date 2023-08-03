@@ -25,6 +25,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
+
 ### 在学项目
 - [ICLR 2022, "FedBABU: Toward Enhanced Representation for Federated Image Classification"](https://github.com/jhoon-oh/FedBABU)
 - [FedAvg:Communication-Efficient Learning of Deep Networks from Decentralized Data](https://github.com/shaoxiongji/federated-learning)
@@ -33,7 +34,6 @@
 - [[ICML2022] ProgFed: Effective, Communication, and Computation Efficient Federated Learning by Progressive Training](https://github.com/a514514772/ProgFed)
 - [技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计](https://github.com/Jixs0528/CS-Notes)
 
+<img align="right" height="137px" src="https://github-readme-stats.vercel.app/api?username=Jixs0528&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
 
-> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
-
-⭐️ From [Jixs0528](https://github.com/JJixs0528)
+<img align="left" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jixs0528&amp;layout=compact&amp;theme=tokyonight" />
