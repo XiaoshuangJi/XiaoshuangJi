@@ -8,7 +8,7 @@
 - 🌱 Bachelor's Degree in CS from CUMT,Master's Degree in Cyberspace Security from an institute of CAS. 
 - 💬 Research on privacy preservation in federated learning
 - ⭐ Ask me about Java, Python and my projects on [1647102028@qq.com](mailto:1647102028@qq.com) or WeChat : jxs20000528
-- ⚡ currently learning : Vue, AJAX
+- ⚡ currently learning : PEFT
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Jixs0528&theme=calm&show_icons=true" />
 
