@@ -3,7 +3,7 @@
 
 <img align="right" height="165" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jixs0528&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
 
-### I'm Jixs0528
+### I'm XiaoshuangJi
 
 - 🌱 Bachelor's Degree in CS from CUMT,Master's Degree in Cyberspace Security from an institute of CAS. 
 - 💬 Research on privacy preservation in federated learning
