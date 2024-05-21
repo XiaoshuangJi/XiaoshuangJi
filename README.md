@@ -1,7 +1,7 @@
 ## Hello GitHub 👋
 ---
 
-<img align="right" height="165" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jixs0528&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
+<img align="right" height="165" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoshuangJi&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
 
 ### I'm XiaoshuangJi
 
@@ -10,7 +10,7 @@
 - ⭐ Ask me about Java, Python and my projects on [1647102028@qq.com](mailto:1647102028@qq.com) or WeChat : jxs20000528
 - ⚡ currently learning : PEFT
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Jixs0528&theme=calm&show_icons=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=XiaoshuangJi&theme=calm&show_icons=true" />
 
 ### 🛠 技术栈 | Tech Stack
 
@@ -35,6 +35,6 @@
 - [[NeurIPS 2022] SemiFL: Semi-Supervised Federated Learning for Unlabeled Clients with Alternate Training](https://github.com/diaoenmao/SemiFL-Semi-Supervised-Federated-Learning-for-Unlabeled-Clients-with-Alternate-Training)
 - [Official code implementation for "Personalized Federated Learning using Hypernetworks" [ICML 2021]](https://github.com/AvivSham/pFedHN)
 - [[ICML2022] ProgFed: Effective, Communication, and Computation Efficient Federated Learning by Progressive Training](https://github.com/a514514772/ProgFed)
-- [技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计](https://github.com/Jixs0528/CS-Notes)
+- [技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计](https://github.com/XiaoshuangJi/CS-Notes)
 
-⭐️ From [Jixs0528](https://github.com/Jixs0528)
+⭐️ From [XiaoshuangJi](https://github.com/XiaoshuangJi)
