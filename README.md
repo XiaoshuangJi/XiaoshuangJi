@@ -30,11 +30,10 @@
 
 
 ### 在学项目
-- [ICLR 2022, "FedBABU: Toward Enhanced Representation for Federated Image Classification"](https://github.com/jhoon-oh/FedBABU)
-- [FedAvg:Communication-Efficient Learning of Deep Networks from Decentralized Data](https://github.com/shaoxiongji/federated-learning)
-- [[NeurIPS 2022] SemiFL: Semi-Supervised Federated Learning for Unlabeled Clients with Alternate Training](https://github.com/diaoenmao/SemiFL-Semi-Supervised-Federated-Learning-for-Unlabeled-Clients-with-Alternate-Training)
-- [Official code implementation for "Personalized Federated Learning using Hypernetworks" [ICML 2021]](https://github.com/AvivSham/pFedHN)
-- [[ICML2022] ProgFed: Effective, Communication, and Computation Efficient Federated Learning by Progressive Training](https://github.com/a514514772/ProgFed)
+- [[ICLR 2022] LoRA: Low-Rank Adaptation of Large Language Models](https://github.com/microsoft/LoRA)
+- [[NeurIPS 2024] PiSSA: Principal Singular Values and Singular Vectors Adaptation of Large Language Models](https://github.com/GraphPKU/PiSSA)
+- [[NAACL 2024] MiLoRA: Harnessing Minor Singular Components for Parameter-Efficient LLM Finetuning](https://github.com/sufenlp/MiLoRA)
+- [[NeurIPS 2024] HydraLoRA: An Asymmetric LoRA Architecture for Efficient Fine-Tuning](https://github.com/Clin0212/HydraLoRA)
 - [技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计](https://github.com/XiaoshuangJi/CS-Notes)
 
 ⭐️ From [XiaoshuangJi](https://github.com/XiaoshuangJi)
